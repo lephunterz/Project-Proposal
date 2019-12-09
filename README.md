@@ -1,30 +1,18 @@
 # Project-Proposal
-
-
 PROJECT PROPOSAL GUIDELINES
 INFO 3305
-
-
-
-
 PROPOSAL FOR PROJECT DEVELOPMENT
-
 HOTEL REGISTRATION SYSTEM
-
 IBN KHALDUN
-
 NURUL SHUHAILA BINTI AZMAN
 1710060
-
 MUHAMMAD ALIF NAJMI BIN MOHD AZMAN
 1915601
-
 MOHAMAD NOR FAZA BIN MUHYIDDIN
 1615851
-
 1.1 INTRODUCTION
             As Malaysia growing to be one of the tourists destination in Southeast Asia, there has been a good improvement in increasing amount of hotels in Malaysia. Tourism sector has been recognized to produce the biggest income as we received a lot of visitors from inside and outside of Malaysia. In this context, ICT based products and development help the hotels to enhance the efficiency in handling information and improve the customer service experience. ICTs actually were used in the tourism industry from late seventies in the form of Computerized Reservation System and Global Distribution System. For our project, we are making a system in storing and organizing the information of customers that made registrations, which is Hotel Registration System. Due to the rapid development of technology such as Information and Communication Technologies, this system can be applied in the tourism industry in order to ease the management of the hotels in Malaysia as well as to increase the customer satisfaction due to faster and more efficient system.
- 
+
 1.2 PROBLEM DESCRIPTION
 
 1.2.1 Background of the problem
@@ -37,14 +25,13 @@ Not all employees can access the existing system that might result in difficulty
 The outdated data should be erased or deleted to increase the capacity of the storage. We might not want to store data of 20 years ago. 
 Employee might have difficulty in viewing the customer’s details which the existing system are not well sorted and organized.
  
-
 1.3 PROJECT OBJECTIVE
 Only authorised admin can fully make alterations on the customer’s information. Wrong id and password will not get the access.
 Admin and authorised employee can insert, update and delete the customer’s information.
 The employee also have the access to update the customer’s details that are suits with their unit of work.
 All the employee can view the order and customer’s details and make updates if necessary.
 Employee can filter and sort the data according to date, floor level and category which can ease their job in monitoring the customers.
- 
+
 
 1.4 PROJECT SCOPE
 
@@ -54,7 +41,6 @@ Insert feature - where we can add a new set of data (registration phase).
 Update feature - where we can update any information on the customer’s data including the extra requests that are requested from the customer.
 Delete feature - where we can delete any outdated and unwanted data.
 View feature - where we can view the customer’s information as well as if we want to sort the customers according to date, floor level and category.
-
  
 1.4.2 Targeted User
 This system is for any hotel businesses as well as motels, resorts and other suitable businesses.
@@ -65,7 +51,6 @@ This system is for all department inside the businesses.
 1.4.3 Specific Platform
 We will use Servlet, JSP and JavaBean for this project. We will also use JDBC for storing and organizing the customer’s data. Besides, we will be using the Tomcat Server and its technologies to fulfill the development. We will use Model View Controller concept for the execution of this project.
  
-
 1.5 CONSTRAINTS
 Time constraints - this project might need more time to finish than what have been planned.
 Features constraints - this project might give few same functionalities from the existing applications with less improvement.
@@ -90,8 +75,6 @@ Increase efficiency in operation for each department
 1.8 SUMMARY
 By completing the project, there are some achievements we can unlock such as the replacement of manual system, data can be processed with great speed and efficient, easy to store and organize data. The objectives could be improved upon, the online hotel management system developed will offer greater opportunity in Hotel
 management. 
-
-
  
  
 1.9 REFERENCES
