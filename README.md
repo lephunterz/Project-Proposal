@@ -26,8 +26,10 @@ MOHAMAD NOR FAZA BIN MUHYIDDIN
             As Malaysia growing to be one of the tourists destination in Southeast Asia, there has been a good improvement in increasing amount of hotels in Malaysia. Tourism sector has been recognized to produce the biggest income as we received a lot of visitors from inside and outside of Malaysia. In this context, ICT based products and development help the hotels to enhance the efficiency in handling information and improve the customer service experience. ICTs actually were used in the tourism industry from late seventies in the form of Computerized Reservation System and Global Distribution System. For our project, we are making a system in storing and organizing the information of customers that made registrations, which is Hotel Registration System. Due to the rapid development of technology such as Information and Communication Technologies, this system can be applied in the tourism industry in order to ease the management of the hotels in Malaysia as well as to increase the customer satisfaction due to faster and more efficient system.
  
 1.2 PROBLEM DESCRIPTION
+
 1.2.1 Background of the problem
             In Malaysia, there are about 4,750 hotels according to the statistics in 2019. Some of the hotels are gaining their international customers but the registration system is only implemented by few renowned hotels. So, our team decided to create hotel registration system as our project that are required in the tourism industry and can be implemented not only for the big and popular hotels but also for motels, resorts and another cheap hotels. 
+
 1.2.2 Problem Statement
 We usually heard on the data breach which the existing applications does not stress this issue. Increasing the security might makes customers trust and satisfied with the services.
 Administration of the hotel have limitations in storing and organizing the customers’ information. The admin can insert and delete the data but no update features which they cannot update any information of the data. In fact, customer should have rights to update their information.
@@ -45,6 +47,7 @@ Employee can filter and sort the data according to date, floor level and categor
  
 
 1.4 PROJECT SCOPE
+
 1.4.1 Scope
 Login and logout feature - where we only give access to the authorised employee only (User Authentication).
 Insert feature - where we can add a new set of data (registration phase).
