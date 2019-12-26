@@ -1,9 +1,15 @@
 FINAL REPORT FOR WEB APPLICATION DEVELOPMENT
+
 HOTEL REGISTRATION SYSTEM
+
 IBN KHALDUN
+
 NURUL SHUHAILA BINTI AZMAN 1710060
+
 MUHAMMAD ALIF NAJMI BIN MOHD AZMAN 1915601
+
 MOHAMAD NOR FAZA BIN MUHYIDDIN 1615851
+
 1.1 INTRODUCTION OF THE WEB APPLICATION 
 As Malaysia growing to be one of the tourists destination in Southeast Asia, there has been a good improvement in increasing amount of hotels in Malaysia. Tourism sector has been recognized to produce the biggest income as we received a lot of visitors from inside and outside of Malaysia. In this context, ICT based products and development help the hotels to enhance the efficiency in handling information and improve the customer service experience. ICTs actually were used in the tourism industry from late seventies in the form of Computerized Reservation System and Global Distribution System. For our project, we are making a system in storing and organizing the information of customers that made registrations, which is Hotel Registration System. Due to the rapid development of technology such as Information and Communication Technologies, this system can be applied in the tourism industry in order to ease the management of the hotels in Malaysia as well as to increase the customer satisfaction due to faster and more efficient system.
 
